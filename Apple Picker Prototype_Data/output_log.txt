@@ -1,0 +1,70 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 675M (ID=0x1212)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+    Driver:   23.21.13.9101
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gomorrah\source\repos\ApplePicker\Apple Picker Prototype_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gomorrah\source\repos\ApplePicker\Apple Picker Prototype_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gomorrah\source\repos\ApplePicker\Apple Picker Prototype_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gomorrah\source\repos\ApplePicker\Apple Picker Prototype_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gomorrah\source\repos\ApplePicker\Apple Picker Prototype_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Gomorrah\source\repos\ApplePicker\Apple Picker Prototype_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gomorrah\source\repos\ApplePicker\Apple Picker Prototype_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gomorrah\source\repos\ApplePicker\Apple Picker Prototype_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: C:\Users\Gomorrah\source\repos\ApplePicker\Apple Picker Prototype_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gomorrah\source\repos\ApplePicker\Apple Picker Prototype_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.198660 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 18ec -> priority: 1 
+  Thread -> id: 22f4 -> priority: 1 
+  Thread -> id: 29a0 -> priority: 1 
+  Thread -> id: 5510 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.724794 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 313.
+Total: 0.212534 ms (FindLiveObjects: 0.015394 ms CreateObjectMapping: 0.017533 ms MarkObjects: 0.164639 ms  DeleteObjects: 0.014539 ms)
+
+Increasing difficulty
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Increasing difficulty
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Increasing difficulty
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Increasing difficulty
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Increasing difficulty
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Increasing difficulty
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Increasing difficulty
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.404542 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 294.
+Total: 0.330134 ms (FindLiveObjects: 0.020098 ms CreateObjectMapping: 0.016677 ms MarkObjects: 0.187731 ms  DeleteObjects: 0.104342 ms)
+
